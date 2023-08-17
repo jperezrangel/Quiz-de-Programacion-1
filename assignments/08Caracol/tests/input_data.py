@@ -7,7 +7,7 @@ input_values = [
         # Inputs
         ["3"],
         # Outputs
-        ["Dame los minutos: ", "Centímentros recorridos: 102.6"],
+        ["Dame los minutos: ", "Centímetros recorridos: 102.6"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa los cálculos, recuerda que hay que convertir a centímetros por minuto."
     ),
@@ -15,7 +15,7 @@ input_values = [
         # Inputs
         ["1.5"],
         # Outputs
-        ["Dame los minutos: ", "Centímentros recorridos: 51.3"],
+        ["Dame los minutos: ", "Centímetros recorridos: 51.3"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa los cálculos, recuerda que hay que convertir a centímetros por minuto."
     ),
@@ -23,7 +23,7 @@ input_values = [
         # Inputs
         ["33"],
         # Outputs
-        ["Dame los minutos: ", "Centímentros recorridos: 1128.6"],
+        ["Dame los minutos: ", "Centímetros recorridos: 1128.6"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa los cálculos, recuerda que hay que convertir a centímetros por minuto."
     )
